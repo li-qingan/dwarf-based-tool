@@ -1,0 +1,2 @@
+tool.cpp: In member function ‘std::string NameMangle::GetDieName(Dwarf_Die)’:
+tool.cpp:85:12: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]

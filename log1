@@ -1,0 +1,1 @@
+tool.cpp:316:54: warning: trigraph ??( ignored, use -trigraphs to enable [-Wtrigraphs]
